@@ -21,6 +21,6 @@
 <hr>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=walaagendia12&show_icons=true&locale=en&layout=compact" alt="walaagendia12" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=walaagendia12&show_icons=true&locale=en" alt="walaagendia12" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=walaagendia12&show_icons=true&locale=en" alt="walaagendia12"width="48%" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=walaagendia12&" alt="walaagendia12"  /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=walaagendia12&" alt="walaagendia12"width="48%"  /></p>
