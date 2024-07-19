@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Walaa Gendia</h1>
 <h3 align="center">I'm Fullstack Web Developer PHP | Laravel | React.js</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=walaagendia12&label=Profile%20views&color=0e75b6&style=flat" alt="walaagendia12" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=walaagendia12&label=Profile%20views&color=0e75b6&style=flat" alt="walaagendia12" />
+		   <img src="https://img.shields.io/github/followers/walaagendia12?label=Followers" alt="walaagendia12" /></p>
+     <div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+    </div>
+     
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
