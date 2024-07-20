@@ -1,12 +1,12 @@
+<p  align="center"><img src="https://mobios.school/images/16.09.2020/5eKX.gif" width="50%" height="200" alt="image"  style="float: left; border: 200px solid #000; border-radius: 50px; box-shadow: 2px 20px 5px rgba(0, 20, 0, 0.5);"/> </p>
+
 <h1 align="center">Hi 👋, I'm Walaa Gendia</h1>
 <h3 align="center">I'm Back-end Web Developer PHP | Laravel</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=walaagendia12&label=Profile%20views&color=0e75b6&style=flat" alt="walaagendia12" />
 		   <img src="https://img.shields.io/github/followers/walaagendia12?label=Followers" alt="walaagendia12" /></p>
-     <div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
-    </div>
+   
      
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 220px/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
